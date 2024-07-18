@@ -100,7 +100,7 @@ Untuk meningkatkan performa model, berikut merupakan rekomendasi yang dapat dila
 - Feature Engineering Lebih Lanjut: dapat dilakukan penambahan fitur interaksi dan polinomial untuk menangkap hubungan non-linear antara variabel.
 - Investigasi Pengaruh Faktor Eksternal: Melakukan studi tentang pengaruh faktor eksternal seperti kebijakan pemerintah, perubahan iklim, dan perkembangan infrastruktur terhadap harga rumah. Mengintegrasikan data eksternal ini dalam model untuk meningkatkan akurasi prediksi.
 
-Dengan melaksanakan rekomendasi ini, penelitian selanjutnya dapat memperbaiki model prediksi harga rumah, menghasilkan estimasi yang lebih akurat, dan memberikan wawasan yang lebih mendalam bagi pengambilan keputusan bisnis.
+Dengan melaksanakan rekomendasi ini, penelitian selanjutnya dapat meningkatkan kinerja model clustering, menghasilkan estimasi yang lebih akurat, dan memberikan wawasan yang lebih mendalam bagi pengambilan keputusan bisnis.
 
 ### Recomendation for Business
 Berikut merupakan rekomendasi untuk bisnis OLIST:
